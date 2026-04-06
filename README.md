@@ -2,7 +2,7 @@
 An end-to-end data pipeline and machine learning project to predict customer churn 
 for a telecom company. Built with Python, SQLite, XGBoost, and Streamlit.
 
-🔗 **[Live Demo](YOUR_STREAMLIT_URL_HERE)** ← we'll fill this in after deployment
+🔗 **[Live Demo](https://prakhar-sharma-telco-churn-analysis-gaj5kzaej5v4krfqtxymu6.streamlit.app/)** ← we'll fill this in after deployment
 
 ---
 
